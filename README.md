@@ -28,4 +28,4 @@ IDE- Jupyter Notebook
 Contact
 github- https//github.com/ai-kannu
 email- ai.karanchauhan@gmail.com feel free to contact me!
-This project is an open source and available at github account--> "https://github.com/ai-kannu/LendingClubCaseStudy"
+This project is an open source and available at github account--> "https://github.com/ai-kannu/Bike-Sharing-Assignment"
